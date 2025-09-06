@@ -3,7 +3,7 @@ window.DATA = [
     "Kelompok": "Kelompok 2 (Manggurebe)",
     "Full Name": "A Hanifah Nurin",
     "University": "The University of Edinburgh",
-    "Program of Study": "Phd (with integrated study) in Management",
+    "Program of Study": "PhD in Management",
     "First Name": "A",
     "Middle Name": "Hanifah",
     "Last Name": "Nurin",
@@ -5526,3 +5526,4 @@ window.DATA = [
     "Selesai Studi": ""
   }
 ];
+
