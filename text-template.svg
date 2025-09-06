@@ -1,0 +1,41 @@
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- ===== placeholders yang akan diisi via JS ===== -->
+
+<!-- Nama (Urbanist Bold 50, tracking 5%, putih di bar hijau) -->
+<text id="nameText"
+      x="40.41" y="1109"
+      font-family="Urbanist, sans-serif"
+      font-weight="700" font-size="50"
+      letter-spacing="0.05em"
+      fill="#FFFFFF"
+      text-anchor="start"
+      alignment-baseline="hanging">
+  Nama Lengkap
+</text>
+
+<!-- Universitas (Urbanist Regular 35, tracking 5%, hitam di panel putih) -->
+<text id="univText"
+      x="40.41" y="1225"
+      font-family="Urbanist, sans-serif"
+      font-weight="400" font-size="35"
+      letter-spacing="0.05em"
+      fill="#1E1E1E"
+      text-anchor="start"
+      alignment-baseline="hanging">
+  Universitas / Afiliasi
+</text>
+
+<!-- Program/Jurusan (Urbanist Bold 35, tracking 5%, hitam di panel putih) -->
+<text id="prodiText"
+      x="40.41" y="1270"
+      font-family="Urbanist, sans-serif"
+      font-weight="700" font-size="35"
+      letter-spacing="0.05em"
+      fill="#1E1E1E"
+      text-anchor="start"
+      alignment-baseline="hanging">
+  Program / Jurusan
+</text>
+
+
+</svg>
